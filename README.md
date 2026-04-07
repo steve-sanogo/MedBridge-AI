@@ -92,10 +92,10 @@ Afin de garantir la reproductibilité et la propreté du dépôt :
 ## 👥 Équipe
 Projet réalisé dans le cadre du module **APS** (Master IA - Avignon Université).
 Membres de groupe : 
--Christ Keli
--Hamad Aldenawi
--Patrice Sebastiano
--Steve Sanogo
+* Christ Keli
+* Hamad Aldenawi
+* Patrice Sebastiano
+* Steve Sanogo
 
 ---
 
