@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NLP](https://img.shields.io/badge/Domain-NLP%20%2F%20ASR-red.svg)]()
 
-**MedBridge-AI** est un projet de recherche et développement (module APS) visant à briser les barrières linguistiques en milieu hospitalier. Le système propose un pipeline de traduction multilingue spécialisé, facilitant la communication entre patients parlant des langues à faibles ressources (Ewé, Dioula, etc.) et professionnels de santé.
+**MedBridge-AI** est un projet de recherche et développement (module APS) visant à briser les barrières linguistiques en milieu hospitalier. Le système propose un pipeline de traduction multilingue spécialisé, facilitant la communication entre patients parlant des langues à faibles ressources (Ewé, Arabe) et professionnels de santé.
 
 ## 🚀 Objectif Technique
 L'objectif est de mettre en œuvre un pipeline robuste de bout en bout :
